@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Bsc-IT (Cloud Technology and Information Security)...
 - 💞️ I’m looking to collaborate on Interesting Projects...
 - 📫 How to reach me riya.0628.singh@gmail.com...
+- Thank you for stopping by! Don't forget to ⭐️ my repositories if you find them interesting. Let's learn, build, and grow together!
+- Happy coding! 🚀
+
 
 <!---
 Riyaaa06/Riyaaa06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
